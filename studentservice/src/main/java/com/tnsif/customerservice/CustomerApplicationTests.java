@@ -1,10 +1,10 @@
-package com.tnsif.student;
+package com.tnsif.customerservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudentserviceApplicationTests {
+class CustomerserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
